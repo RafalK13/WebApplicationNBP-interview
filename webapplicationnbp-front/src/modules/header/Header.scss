@@ -1,0 +1,11 @@
+@import "../../styles/styles.scss";
+
+.container {
+  background-color: $grey;
+  width: 100%;
+  min-height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: $dark-blue;
+}

@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+  max-width: 650px;
+  overflow: hidden;
+  margin: 0 auto;
+
+  .dateDescription {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+  }
+}

@@ -1,0 +1,9 @@
+@import "../../styles/styles.scss";
+
+.container {
+  min-height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: $light-grey;
+}
